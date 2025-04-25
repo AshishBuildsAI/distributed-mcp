@@ -1,7 +1,14 @@
-# distributed-mcp
+# Distributed Model Context Protocol (dMCP) distributed-mcp
 Distributed Model Context Protocol (dMCP) is a proposed extension to the original Model Context Protocol (MCP), introducing asynchronous, event-driven, and distributed communication between agents, models, and context providers.
-# Distributed Model Context Protocol (dMCP)
 
+## Table of Contents
+- [Overview](#overview)
+- [Why Distributed MCP?](#why-distributed-mcp)
+- [Architecture](#architecture)
+- [Core Message Types](#core-message-types)
+- [Status](#status)
+- [Author](#author)
+- [License](#license)
 ## Overview
 
 **Distributed MCP (dMCP)** is a proposed extension to the Model Context Protocol (MCP), introducing asynchronous, event-driven, and distributed communication between agents, models, and context providers.
@@ -55,6 +62,11 @@ Agents, Models, and Context Providers communicate asynchronously through a distr
 
 Distributed MCP is an open, evolving specification.  
 **Feedback, collaboration, and pull requests are welcome!**
+
+## Contributing
+
+I welcome issues, discussions, pull requests, and feedback!  
+Let's collaboratively build the future of scalable, distributed agent systems.
 
 ---
 
